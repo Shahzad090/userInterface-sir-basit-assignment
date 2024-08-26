@@ -6,12 +6,15 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    background-image: url(./images/bg.jpg);
+    
     
 }
-.bgimg{
+.img {
     position: absolute;
-    
-
+    height: 100vh;
+    width: auto;
+    display: flex;
 }
 .container {
     background-color: #fff;
